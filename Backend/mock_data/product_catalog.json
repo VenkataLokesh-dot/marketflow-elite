@@ -1,0 +1,470 @@
+{
+  "Taj Mahal": {
+    "company": "HUL",
+    "category": "Beverages",
+    "sub_category": "Tea",
+    "market_share": 25,
+    "products": [
+      {
+        "name": "Taj Mahal Tea Strong",
+        "price": 250,
+        "unit": "500g",
+        "margin": 15,
+        "popularity": 90
+      },
+      {
+        "name": "Taj Mahal Gold Tea",
+        "price": 300,
+        "unit": "500g",
+        "margin": 18,
+        "popularity": 85
+      },
+      {
+        "name": "Taj Mahal Green Tea",
+        "price": 180,
+        "unit": "100 bags",
+        "margin": 20,
+        "popularity": 70
+      },
+      {
+        "name": "Taj Mahal Masala Chai",
+        "price": 220,
+        "unit": "500g",
+        "margin": 16,
+        "popularity": 80
+      },
+      {
+        "name": "Taj Mahal Classic Tea Bags",
+        "price": 150,
+        "unit": "100 bags",
+        "margin": 22,
+        "popularity": 75
+      },
+      {
+        "name": "Taj Mahal Rich Taste Tea",
+        "price": 280,
+        "unit": "500g",
+        "margin": 17,
+        "popularity": 82
+      },
+      {
+        "name": "Taj Mahal Premium Dust Tea",
+        "price": 200,
+        "unit": "500g",
+        "margin": 14,
+        "popularity": 65
+      },
+      {
+        "name": "Taj Mahal Special Leaf Tea",
+        "price": 320,
+        "unit": "500g",
+        "margin": 19,
+        "popularity": 60
+      },
+      {
+        "name": "Taj Mahal Chai Moments",
+        "price": 120,
+        "unit": "10 sachets",
+        "margin": 25,
+        "popularity": 88
+      },
+      {
+        "name": "Taj Mahal Royal Blend",
+        "price": 350,
+        "unit": "500g",
+        "margin": 20,
+        "popularity": 55
+      }
+    ]
+  },
+  "Maggi": {
+    "company": "Nestl\u00e9",
+    "category": "Food",
+    "sub_category": "Instant Food",
+    "market_share": 60,
+    "products": [
+      {
+        "name": "Maggi 2-Minute Masala Noodles",
+        "price": 14,
+        "unit": "70g",
+        "margin": 30,
+        "popularity": 95
+      },
+      {
+        "name": "Maggi Hot & Sweet Sauce",
+        "price": 45,
+        "unit": "200g",
+        "margin": 25,
+        "popularity": 78
+      },
+      {
+        "name": "Maggi Tomato Ketchup",
+        "price": 85,
+        "unit": "500g",
+        "margin": 28,
+        "popularity": 82
+      },
+      {
+        "name": "Maggi Chicken Noodles",
+        "price": 16,
+        "unit": "70g",
+        "margin": 30,
+        "popularity": 85
+      },
+      {
+        "name": "Maggi Atta Noodles",
+        "price": 18,
+        "unit": "70g",
+        "margin": 28,
+        "popularity": 75
+      },
+      {
+        "name": "Maggi Oats Noodles",
+        "price": 22,
+        "unit": "70g",
+        "margin": 32,
+        "popularity": 65
+      },
+      {
+        "name": "Maggi Yummy Masala Aata Noodles",
+        "price": 20,
+        "unit": "70g",
+        "margin": 29,
+        "popularity": 70
+      },
+      {
+        "name": "Maggi Veg Atta Masala",
+        "price": 19,
+        "unit": "70g",
+        "margin": 28,
+        "popularity": 68
+      },
+      {
+        "name": "Maggi Soup Mixes",
+        "price": 35,
+        "unit": "50g",
+        "margin": 35,
+        "popularity": 60
+      },
+      {
+        "name": "Maggi Seasoning Cubes",
+        "price": 25,
+        "unit": "8 cubes",
+        "margin": 40,
+        "popularity": 55
+      }
+    ]
+  },
+  "Britannia": {
+    "company": "Britannia Industries",
+    "category": "Food",
+    "sub_category": "Biscuits & Bakery",
+    "market_share": 35,
+    "products": [
+      {
+        "name": "Good Day Biscuits",
+        "price": 35,
+        "unit": "150g",
+        "margin": 25,
+        "popularity": 88
+      },
+      {
+        "name": "Bourbon",
+        "price": 45,
+        "unit": "200g",
+        "margin": 22,
+        "popularity": 85
+      },
+      {
+        "name": "Jim Jam",
+        "price": 40,
+        "unit": "150g",
+        "margin": 24,
+        "popularity": 80
+      },
+      {
+        "name": "Marie Gold",
+        "price": 30,
+        "unit": "200g",
+        "margin": 20,
+        "popularity": 92
+      },
+      {
+        "name": "NutriChoice Digestive",
+        "price": 55,
+        "unit": "200g",
+        "margin": 28,
+        "popularity": 70
+      },
+      {
+        "name": "Little Hearts",
+        "price": 25,
+        "unit": "100g",
+        "margin": 30,
+        "popularity": 85
+      },
+      {
+        "name": "Treat Biscuits",
+        "price": 35,
+        "unit": "150g",
+        "margin": 26,
+        "popularity": 75
+      },
+      {
+        "name": "Britannia Rusk",
+        "price": 50,
+        "unit": "300g",
+        "margin": 18,
+        "popularity": 65
+      },
+      {
+        "name": "Britannia Bread",
+        "price": 28,
+        "unit": "400g",
+        "margin": 15,
+        "popularity": 90
+      },
+      {
+        "name": "Britannia Cake",
+        "price": 120,
+        "unit": "500g",
+        "margin": 35,
+        "popularity": 60
+      }
+    ]
+  },
+  "Parle": {
+    "company": "Parle Products",
+    "category": "Food",
+    "sub_category": "Biscuits & Snacks",
+    "market_share": 30,
+    "products": [
+      {
+        "name": "Parle-G",
+        "price": 25,
+        "unit": "200g",
+        "margin": 20,
+        "popularity": 98
+      },
+      {
+        "name": "Monaco",
+        "price": 30,
+        "unit": "150g",
+        "margin": 22,
+        "popularity": 85
+      },
+      {
+        "name": "KrackJack",
+        "price": 35,
+        "unit": "200g",
+        "margin": 24,
+        "popularity": 80
+      },
+      {
+        "name": "Hide & Seek",
+        "price": 45,
+        "unit": "200g",
+        "margin": 26,
+        "popularity": 88
+      },
+      {
+        "name": "Kismi Toffee",
+        "price": 15,
+        "unit": "100g",
+        "margin": 35,
+        "popularity": 75
+      },
+      {
+        "name": "Melody Chocolate",
+        "price": 20,
+        "unit": "150g",
+        "margin": 38,
+        "popularity": 70
+      },
+      {
+        "name": "20-20 Cookies",
+        "price": 40,
+        "unit": "200g",
+        "margin": 25,
+        "popularity": 82
+      },
+      {
+        "name": "Milano Cookies",
+        "price": 50,
+        "unit": "200g",
+        "margin": 28,
+        "popularity": 65
+      },
+      {
+        "name": "Mango Bite",
+        "price": 18,
+        "unit": "100g",
+        "margin": 40,
+        "popularity": 78
+      },
+      {
+        "name": "Fab! Biscuits",
+        "price": 32,
+        "unit": "150g",
+        "margin": 23,
+        "popularity": 72
+      }
+    ]
+  },
+  "Colgate": {
+    "company": "Colgate-Palmolive",
+    "category": "Personal Care",
+    "sub_category": "Oral Care",
+    "market_share": 55,
+    "products": [
+      {
+        "name": "Colgate Strong Teeth",
+        "price": 85,
+        "unit": "200g",
+        "margin": 35,
+        "popularity": 90
+      },
+      {
+        "name": "Colgate Max Fresh",
+        "price": 95,
+        "unit": "200g",
+        "margin": 38,
+        "popularity": 85
+      },
+      {
+        "name": "Colgate Total",
+        "price": 110,
+        "unit": "200g",
+        "margin": 40,
+        "popularity": 80
+      },
+      {
+        "name": "Colgate Visible White",
+        "price": 120,
+        "unit": "200g",
+        "margin": 42,
+        "popularity": 75
+      },
+      {
+        "name": "Colgate Active Salt",
+        "price": 75,
+        "unit": "200g",
+        "margin": 32,
+        "popularity": 88
+      },
+      {
+        "name": "Colgate Kids Toothpaste",
+        "price": 65,
+        "unit": "100g",
+        "margin": 45,
+        "popularity": 70
+      },
+      {
+        "name": "Colgate Sensitive",
+        "price": 130,
+        "unit": "200g",
+        "margin": 45,
+        "popularity": 65
+      },
+      {
+        "name": "Colgate Herbal",
+        "price": 80,
+        "unit": "200g",
+        "margin": 35,
+        "popularity": 72
+      },
+      {
+        "name": "Colgate ZigZag Toothbrush",
+        "price": 45,
+        "unit": "1 piece",
+        "margin": 50,
+        "popularity": 85
+      },
+      {
+        "name": "Colgate Plax Mouthwash",
+        "price": 180,
+        "unit": "500ml",
+        "margin": 38,
+        "popularity": 68
+      }
+    ]
+  },
+  "Dettol": {
+    "company": "Reckitt",
+    "category": "Healthcare",
+    "sub_category": "Antiseptic & Hygiene",
+    "market_share": 45,
+    "products": [
+      {
+        "name": "Dettol Antiseptic Liquid",
+        "price": 220,
+        "unit": "550ml",
+        "margin": 32,
+        "popularity": 92
+      },
+      {
+        "name": "Dettol Soap \u2013 Original",
+        "price": 45,
+        "unit": "125g",
+        "margin": 40,
+        "popularity": 88
+      },
+      {
+        "name": "Dettol Soap \u2013 Cool",
+        "price": 48,
+        "unit": "125g",
+        "margin": 42,
+        "popularity": 85
+      },
+      {
+        "name": "Dettol Soap \u2013 Skincare",
+        "price": 52,
+        "unit": "125g",
+        "margin": 44,
+        "popularity": 80
+      },
+      {
+        "name": "Dettol Hand Sanitizer",
+        "price": 85,
+        "unit": "200ml",
+        "margin": 45,
+        "popularity": 90
+      },
+      {
+        "name": "Dettol Hand Wash (Original)",
+        "price": 95,
+        "unit": "250ml",
+        "margin": 38,
+        "popularity": 82
+      },
+      {
+        "name": "Dettol Hand Wash (Skincare)",
+        "price": 105,
+        "unit": "250ml",
+        "margin": 40,
+        "popularity": 78
+      },
+      {
+        "name": "Dettol Multi-Use Wipes",
+        "price": 75,
+        "unit": "40 wipes",
+        "margin": 48,
+        "popularity": 70
+      },
+      {
+        "name": "Dettol Liquid Handwash Refill",
+        "price": 120,
+        "unit": "750ml",
+        "margin": 35,
+        "popularity": 75
+      },
+      {
+        "name": "Dettol Disinfectant Spray",
+        "price": 180,
+        "unit": "450ml",
+        "margin": 42,
+        "popularity": 68
+      }
+    ]
+  }
+}

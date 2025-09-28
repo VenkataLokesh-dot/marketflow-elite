@@ -1,0 +1,620 @@
+
+================================================================================
+Business Transaction Record #987a370a:
+
+Retailer Information:
+- Name: Smart Store - Lucknow
+- Type: Medium Grocery Store
+- Location: Lucknow
+- Customer Segment: Budget
+
+Product Details:
+- Product: Colgate Sensitive
+- Brand: Colgate (manufactured by Colgate-Palmolive)
+- Category: Personal Care → Oral Care
+- Unit Price: ₹130 per piece
+
+Transaction Details:
+- Quantity Ordered: 22 units
+- Total Value: ₹2860
+- Purchase Date: 2025-08-26
+- Payment Terms: Cash
+- Profit Margin: 45%
+
+Business Context:
+- Product Popularity Score: 65/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the personal care segment, 
+where budget-focused retailers in Lucknow 
+regularly source oral care products from established suppliers like Colgate-Palmolive.
+
+
+Business Transaction Record #984b178b:
+
+Retailer Information:
+- Name: Mega Mart - Chennai
+- Type: Small Grocery Store
+- Location: Chennai
+- Customer Segment: Budget
+
+Product Details:
+- Product: Dettol Multi-Use Wipes
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹75 per piece
+
+Transaction Details:
+- Quantity Ordered: 9 units
+- Total Value: ₹675
+- Purchase Date: 2024-12-17
+- Payment Terms: Cash
+- Profit Margin: 48%
+
+Business Context:
+- Product Popularity Score: 70/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where budget-focused retailers in Chennai 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #a17cdf0a:
+
+Retailer Information:
+- Name: Raj General Store - Ahmedabad
+- Type: Medium Grocery Store
+- Location: Ahmedabad
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Maggi Hot & Sweet Sauce
+- Brand: Maggi (manufactured by Nestlé)
+- Category: Food → Instant Food
+- Unit Price: ₹45 per piece
+
+Transaction Details:
+- Quantity Ordered: 55 units
+- Total Value: ₹2475
+- Purchase Date: 2025-08-07
+- Payment Terms: Cash
+- Profit Margin: 25%
+
+Business Context:
+- Product Popularity Score: 78/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Ahmedabad 
+regularly source instant food products from established suppliers like Nestlé.
+
+
+Business Transaction Record #ab85f28d:
+
+Retailer Information:
+- Name: Elite Store
+- Type: Small Grocery Store
+- Location: Hyderabad
+- Customer Segment: Budget
+
+Product Details:
+- Product: Dettol Antiseptic Liquid
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹220 per piece
+
+Transaction Details:
+- Quantity Ordered: 10 units
+- Total Value: ₹2200
+- Purchase Date: 2025-09-04
+- Payment Terms: Credit_15
+- Profit Margin: 32%
+
+Business Context:
+- Product Popularity Score: 92/100
+- Seasonal Factor: 1.5
+
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where budget-focused retailers in Hyderabad 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #f1a1c3ab:
+
+Retailer Information:
+- Name: Elite Store
+- Type: Small Grocery Store
+- Location: Hyderabad
+- Customer Segment: Budget
+
+Product Details:
+- Product: Dettol Soap – Original
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹45 per piece
+
+Transaction Details:
+- Quantity Ordered: 3 units
+- Total Value: ₹135
+- Purchase Date: 2025-09-04
+- Payment Terms: Credit_15
+- Profit Margin: 40%
+
+Business Context:
+- Product Popularity Score: 88/100
+- Seasonal Factor: 1.0
+- Basket Purchase: Yes (bought with Dettol Antiseptic Liquid)
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where budget-focused retailers in Hyderabad 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #faac604f:
+
+Retailer Information:
+- Name: Metro Store - Kolkata
+- Type: Medium Grocery Store
+- Location: Kolkata
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Taj Mahal Special Leaf Tea
+- Brand: Taj Mahal (manufactured by HUL)
+- Category: Beverages → Tea
+- Unit Price: ₹320 per piece
+
+Transaction Details:
+- Quantity Ordered: 29 units
+- Total Value: ₹9280
+- Purchase Date: 2025-05-07
+- Payment Terms: Credit_45
+- Profit Margin: 19%
+
+Business Context:
+- Product Popularity Score: 60/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the beverages segment, 
+where mid-range-focused retailers in Kolkata 
+regularly source tea products from established suppliers like HUL.
+
+
+Business Transaction Record #27be92b9:
+
+Retailer Information:
+- Name: Wholesale Hub
+- Type: Medium Grocery Store
+- Location: Jaipur
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Britannia Rusk
+- Brand: Britannia (manufactured by Britannia Industries)
+- Category: Food → Biscuits & Bakery
+- Unit Price: ₹50 per piece
+
+Transaction Details:
+- Quantity Ordered: 81 units
+- Total Value: ₹4050
+- Purchase Date: 2025-03-05
+- Payment Terms: Cash
+- Profit Margin: 18%
+
+Business Context:
+- Product Popularity Score: 65/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Jaipur 
+regularly source biscuits & bakery products from established suppliers like Britannia Industries.
+
+
+Business Transaction Record #47d37c86:
+
+Retailer Information:
+- Name: Metro Store - Kolkata
+- Type: Medium Grocery Store
+- Location: Kolkata
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Maggi Chicken Noodles
+- Brand: Maggi (manufactured by Nestlé)
+- Category: Food → Instant Food
+- Unit Price: ₹16 per piece
+
+Transaction Details:
+- Quantity Ordered: 142 units
+- Total Value: ₹2272
+- Purchase Date: 2025-05-23
+- Payment Terms: Credit_15
+- Profit Margin: 30%
+
+Business Context:
+- Product Popularity Score: 85/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Kolkata 
+regularly source instant food products from established suppliers like Nestlé.
+
+
+Business Transaction Record #aacdcc37:
+
+Retailer Information:
+- Name: Fresh Bazaar
+- Type: Small Grocery Store
+- Location: Pune
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Parle-G
+- Brand: Parle (manufactured by Parle Products)
+- Category: Food → Biscuits & Snacks
+- Unit Price: ₹25 per piece
+
+Transaction Details:
+- Quantity Ordered: 40 units
+- Total Value: ₹1000
+- Purchase Date: 2024-12-17
+- Payment Terms: Credit_30
+- Profit Margin: 20%
+
+Business Context:
+- Product Popularity Score: 98/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Pune 
+regularly source biscuits & snacks products from established suppliers like Parle Products.
+
+
+Business Transaction Record #fe6ceba2:
+
+Retailer Information:
+- Name: New Market - Delhi
+- Type: Small Grocery Store
+- Location: Delhi
+- Customer Segment: Budget
+
+Product Details:
+- Product: Dettol Soap – Cool
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹48 per piece
+
+Transaction Details:
+- Quantity Ordered: 13 units
+- Total Value: ₹624
+- Purchase Date: 2024-12-24
+- Payment Terms: Cash
+- Profit Margin: 42%
+
+Business Context:
+- Product Popularity Score: 85/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where budget-focused retailers in Delhi 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #321dca21:
+
+Retailer Information:
+- Name: Raj General Store - Ahmedabad
+- Type: Medium Grocery Store
+- Location: Ahmedabad
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Dettol Antiseptic Liquid
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹220 per piece
+
+Transaction Details:
+- Quantity Ordered: 38 units
+- Total Value: ₹8360
+- Purchase Date: 2025-07-31
+- Payment Terms: Credit_15
+- Profit Margin: 32%
+
+Business Context:
+- Product Popularity Score: 92/100
+- Seasonal Factor: 1.6
+
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where mid-range-focused retailers in Ahmedabad 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #88db5d84:
+
+Retailer Information:
+- Name: Raj General Store - Ahmedabad
+- Type: Medium Grocery Store
+- Location: Ahmedabad
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Dettol Hand Wash (Original)
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹95 per piece
+
+Transaction Details:
+- Quantity Ordered: 8 units
+- Total Value: ₹760
+- Purchase Date: 2025-07-31
+- Payment Terms: Credit_15
+- Profit Margin: 38%
+
+Business Context:
+- Product Popularity Score: 82/100
+- Seasonal Factor: 1.0
+- Basket Purchase: Yes (bought with Dettol Antiseptic Liquid)
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where mid-range-focused retailers in Ahmedabad 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #244fd09f:
+
+Retailer Information:
+- Name: Raj General Store
+- Type: Small Grocery Store
+- Location: Bangalore
+- Customer Segment: Budget
+
+Product Details:
+- Product: Maggi Tomato Ketchup
+- Brand: Maggi (manufactured by Nestlé)
+- Category: Food → Instant Food
+- Unit Price: ₹85 per piece
+
+Transaction Details:
+- Quantity Ordered: 23 units
+- Total Value: ₹1955
+- Purchase Date: 2025-03-19
+- Payment Terms: Cash
+- Profit Margin: 28%
+
+Business Context:
+- Product Popularity Score: 82/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where budget-focused retailers in Bangalore 
+regularly source instant food products from established suppliers like Nestlé.
+
+
+Business Transaction Record #8ca74acd:
+
+Retailer Information:
+- Name: Wholesale Hub
+- Type: Medium Grocery Store
+- Location: Jaipur
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Maggi Seasoning Cubes
+- Brand: Maggi (manufactured by Nestlé)
+- Category: Food → Instant Food
+- Unit Price: ₹25 per piece
+
+Transaction Details:
+- Quantity Ordered: 168 units
+- Total Value: ₹4200
+- Purchase Date: 2025-04-01
+- Payment Terms: Credit_30
+- Profit Margin: 40%
+
+Business Context:
+- Product Popularity Score: 55/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Jaipur 
+regularly source instant food products from established suppliers like Nestlé.
+
+
+Business Transaction Record #532d0760:
+
+Retailer Information:
+- Name: Elite Store - Chennai
+- Type: Small Grocery Store
+- Location: Chennai
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Kismi Toffee
+- Brand: Parle (manufactured by Parle Products)
+- Category: Food → Biscuits & Snacks
+- Unit Price: ₹15 per piece
+
+Transaction Details:
+- Quantity Ordered: 46 units
+- Total Value: ₹690
+- Purchase Date: 2025-08-09
+- Payment Terms: Cash
+- Profit Margin: 35%
+
+Business Context:
+- Product Popularity Score: 75/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Chennai 
+regularly source biscuits & snacks products from established suppliers like Parle Products.
+
+
+Business Transaction Record #4b6aee75:
+
+Retailer Information:
+- Name: City Mart - Ahmedabad
+- Type: Small Grocery Store
+- Location: Ahmedabad
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Dettol Hand Wash (Skincare)
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹105 per piece
+
+Transaction Details:
+- Quantity Ordered: 11 units
+- Total Value: ₹1155
+- Purchase Date: 2024-10-12
+- Payment Terms: Cash
+- Profit Margin: 40%
+
+Business Context:
+- Product Popularity Score: 78/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where mid-range-focused retailers in Ahmedabad 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #c8d2c629:
+
+Retailer Information:
+- Name: Smart Store - Hyderabad
+- Type: Medium Grocery Store
+- Location: Hyderabad
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Maggi Soup Mixes
+- Brand: Maggi (manufactured by Nestlé)
+- Category: Food → Instant Food
+- Unit Price: ₹35 per piece
+
+Transaction Details:
+- Quantity Ordered: 29 units
+- Total Value: ₹1015
+- Purchase Date: 2025-01-23
+- Payment Terms: Credit_15
+- Profit Margin: 35%
+
+Business Context:
+- Product Popularity Score: 60/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where mid-range-focused retailers in Hyderabad 
+regularly source instant food products from established suppliers like Nestlé.
+
+
+Business Transaction Record #d161512f:
+
+Retailer Information:
+- Name: Quick Stop - Chennai
+- Type: Medium Grocery Store
+- Location: Chennai
+- Customer Segment: Premium
+
+Product Details:
+- Product: Bourbon
+- Brand: Britannia (manufactured by Britannia Industries)
+- Category: Food → Biscuits & Bakery
+- Unit Price: ₹45 per piece
+
+Transaction Details:
+- Quantity Ordered: 50 units
+- Total Value: ₹2250
+- Purchase Date: 2025-02-28
+- Payment Terms: Cash
+- Profit Margin: 22%
+
+Business Context:
+- Product Popularity Score: 85/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the food segment, 
+where premium-focused retailers in Chennai 
+regularly source biscuits & bakery products from established suppliers like Britannia Industries.
+
+
+Business Transaction Record #bd849f2c:
+
+Retailer Information:
+- Name: Local Grocery - Delhi
+- Type: Small Grocery Store
+- Location: Delhi
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Dettol Soap – Original
+- Brand: Dettol (manufactured by Reckitt)
+- Category: Healthcare → Antiseptic & Hygiene
+- Unit Price: ₹45 per piece
+
+Transaction Details:
+- Quantity Ordered: 13 units
+- Total Value: ₹585
+- Purchase Date: 2025-07-29
+- Payment Terms: Credit_30
+- Profit Margin: 40%
+
+Business Context:
+- Product Popularity Score: 88/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the healthcare segment, 
+where mid-range-focused retailers in Delhi 
+regularly source antiseptic & hygiene products from established suppliers like Reckitt.
+
+
+Business Transaction Record #f45f48ae:
+
+Retailer Information:
+- Name: Fresh Bazaar - Bangalore
+- Type: Small Grocery Store
+- Location: Bangalore
+- Customer Segment: Mid-range
+
+Product Details:
+- Product: Colgate Plax Mouthwash
+- Brand: Colgate (manufactured by Colgate-Palmolive)
+- Category: Personal Care → Oral Care
+- Unit Price: ₹180 per piece
+
+Transaction Details:
+- Quantity Ordered: 10 units
+- Total Value: ₹1800
+- Purchase Date: 2024-12-12
+- Payment Terms: Cash
+- Profit Margin: 38%
+
+Business Context:
+- Product Popularity Score: 68/100
+- Seasonal Factor: 1.0
+
+
+This transaction represents typical B2B purchasing behavior in the personal care segment, 
+where mid-range-focused retailers in Bangalore 
+regularly source oral care products from established suppliers like Colgate-Palmolive.

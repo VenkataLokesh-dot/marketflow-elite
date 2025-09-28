@@ -1,0 +1,112 @@
+{
+  "generation_date": "2025-09-28T08:30:45.293925",
+  "total_retailers": 50,
+  "total_transactions": 2043,
+  "total_brands": 6,
+  "retailer_distribution": {
+    "by_size": {
+      "Small": 26,
+      "Medium": 18,
+      "Large": 6
+    },
+    "by_segment": {
+      "Budget": 12,
+      "Mid-range": 29,
+      "Premium": 9
+    },
+    "by_location": {
+      "Bangalore": 5,
+      "Hyderabad": 5,
+      "Pune": 7,
+      "Kolkata": 6,
+      "Ahmedabad": 3,
+      "Delhi": 5,
+      "Chennai": 7,
+      "Jaipur": 8,
+      "Lucknow": 3,
+      "Mumbai": 1
+    }
+  },
+  "transaction_patterns": {},
+  "top_products": [
+    {
+      "product": "Dettol Hand Sanitizer",
+      "total_sales": 331330
+    },
+    {
+      "product": "Taj Mahal Tea Strong",
+      "total_sales": 294750
+    },
+    {
+      "product": "Maggi Tomato Ketchup",
+      "total_sales": 283390
+    },
+    {
+      "product": "Taj Mahal Masala Chai",
+      "total_sales": 263780
+    },
+    {
+      "product": "Dettol Antiseptic Liquid",
+      "total_sales": 260700
+    },
+    {
+      "product": "Taj Mahal Rich Taste Tea",
+      "total_sales": 243320
+    },
+    {
+      "product": "Dettol Hand Wash (Original)",
+      "total_sales": 238925
+    },
+    {
+      "product": "Taj Mahal Classic Tea Bags",
+      "total_sales": 236250
+    },
+    {
+      "product": "Taj Mahal Royal Blend",
+      "total_sales": 209300
+    },
+    {
+      "product": "Britannia Cake",
+      "total_sales": 206040
+    }
+  ],
+  "regional_distribution": {},
+  "seasonal_insights": {},
+  "top_brands": [
+    {
+      "brand": "Taj Mahal",
+      "total_sales": 2112800
+    },
+    {
+      "brand": "Dettol",
+      "total_sales": 1538296
+    },
+    {
+      "brand": "Colgate",
+      "total_sales": 1287195
+    },
+    {
+      "brand": "Britannia",
+      "total_sales": 1148681
+    },
+    {
+      "brand": "Maggi",
+      "total_sales": 978063
+    }
+  ],
+  "monthly_sales_trend": {
+    "2024-09": 35838,
+    "2024-10": 270753,
+    "2024-11": 263643,
+    "2024-12": 473200,
+    "2025-01": 422005,
+    "2025-02": 369638,
+    "2025-03": 336104,
+    "2025-04": 659240,
+    "2025-05": 1016539,
+    "2025-06": 736056,
+    "2025-07": 881579,
+    "2025-08": 1263778,
+    "2025-09": 1049151
+  }
+}

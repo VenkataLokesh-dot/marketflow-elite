@@ -1,0 +1,34 @@
+# Core Dependencies
+python-dotenv
+
+# Data Processing
+pandas
+pydantic
+
+# Progress Bars (used in optimized_ingestion_service.py)
+tqdm
+
+# LangChain Ecosystem - LLM and Graph Processing
+langchain
+langchain-core
+langchain-openai
+langchain-experimental
+langchain-community
+
+# Neo4j Integration (primary and fallback)
+langchain-neo4j
+neo4j
+
+# OpenAI Integration (for LLM functionality)
+openai
+
+# Optional: Data Analysis (commented out - uncomment if needed)
+# numpy
+# python-dateutil
+# jupyter
+# matplotlib
+# seaborn
+
+# FastAPI Web Framework
+fastapi
+uvicorn
